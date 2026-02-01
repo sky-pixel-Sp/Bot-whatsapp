@@ -21,12 +21,15 @@ git clone https://github.com/sky-pixel-Sp/sky-pixel-Sp.git Bot-whatsapp
 cd Bot-whatsapp
 
 ### 2. Install dependencies
-'''bash
+
 npm install
 
 ### 3. Run
-'''bash
+
 #run bot
+
 node main.js
-#or 
+
+#or
+
 npm start
