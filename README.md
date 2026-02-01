@@ -2,7 +2,7 @@
 
 Ultimate WhatsApp Bot with 600+ Commands, META AI Integration, and 8-Digit Pairing Code System.
 
-## ✨ Features
+## ✨ Features 
 - **600+ Commands** - Downloader, Games, AI, Islamic, etc.
 - **8-Digit Pairing Code** - WhatsApp standard authentication
 - **META AI Integration** - Llama 3 70B model
